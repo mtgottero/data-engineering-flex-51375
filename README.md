@@ -11,7 +11,7 @@ Van a encontrar:
 | --- | --- |
 | README.md | Este documento de presentación del proyecto |
 | docker-compose.yaml |  en el cual levanta el servicio de Airflow en Docker. |
-| dags | dentro de esta carpeta se encuentra el ETL_Wheather.py y _pycache_ |
-| capturas |   dentro de esta carpeta se encuentran las capturas de proceso |
-
+| ETL_Wheather.py | Scrit Principal del ETL |
+| airflow.cfg |  Archivo de configuracion de Airflow |
+| webserver_config.py |  Archivo de configuracion de Airflow |
 
